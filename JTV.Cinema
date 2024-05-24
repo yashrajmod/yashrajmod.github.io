@@ -1,0 +1,382 @@
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
+<title>YASHRAJ MOD</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+<link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png"> <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display&family=Roboto&family=Roboto+Slab&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" /> 
+<link rel="stylesheet" href="./maxprostyle.css" />
+<link rel="stylesheet" href="./maxproplayer.css" />
+<meta name="robots" content="noindex">
+
+<style>
+body {
+  background-image: url('https://i.postimg.cc/xT54Y0Fz/photo-6226433305151126556-y.jpg');
+}
+</style>
+
+
+<!--====================================Player===============================-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.css" />
+<script src="https://cdn.jsdelivr.net/npm/plyr@3.6.12/dist/plyr.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script>
+
+
+
+
+<div id="content">
+<div class="container-fluid">
+
+<div class="row">
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" alt="Colors HD"style="height: 120px"> 
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8"><p style="color:black;">Colors HD</p></a> 
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg" alt="Rishtey" style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8"><p style="color:black;">Rishtey</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg" alt="Colors Bengla HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8"><p style="color:black;">Colors Bengla HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg" alt="Colors Kannada HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/index.m3u8"><p style="color:black;">Colors Kannada HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg" alt="Colors Marathi HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8"><p style="color:black;">Colors Marathi HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg" alt="Colors Gujarati"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsGujarati/JCHLS/index.m3u8"><p style="color:black;">Colors Gujarati</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" alt="Colors Tamil HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8"><p style="color:black;">Colors Tamil HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-odia-live-channels-16x9-4-1642583679866.jpg" alt="Colors Oriya"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsOriya/JCHLS/index.m3u8"><p style="color:black;">Colors Oriya</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" alt="Colors Infinity HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8"><p style="color:black;">Colors Infinity HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg" alt="Colors Super"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/index.m3u8"><p style="color:black;">Colors Super</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" alt="Colors Cineplex HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8"><p style="color:black;">Colors Cineplex HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" alt="Colors Cineplex Superhit"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_RishteyCineplex/JCHLS/index.m3u8"><p style="color:black;">Colors Cineplex Superhit</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" alt="Colors Cineplex Bollywood"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8"><p style="color:black;">Colors Cineplex Bollywood</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg" alt="Colors Kannada Cinema"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/index.m3u8"><p style="color:black;">Colors Kannada Cinema</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" alt="MTV HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8"><p style="color:black;">MTV HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg" alt="MTV Beats HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8"><p style="color:black;">MTV Beats HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg" alt="Nick Junior"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8"><p style="color:black;">Nick Junior</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" alt="Nick HD+"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8"><p style="color:black;">Nick HD+</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" alt="Sonic"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8"><p style="color:black;">Sonic</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg" alt="SPORTS 18 HD"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8"><p style="color:black;">SPORTS 18 HD</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg" alt="SPORTS 18 Khel"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8"><p style="color:black;">SPORTS 18 Khel</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg" alt="JC Sports 24x7"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8"><p style="color:black;">JC Sports 24x7</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg" alt="CricStream"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8"><p style="color:black;">CricStream</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg" alt="CNBC Awaaz"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/index.m3u8"><p style="color:black;">CNBC Awaaz</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg" alt="CNBC Bazaar"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/index.m3u8"><p style="color:black;">CNBC Bazaar</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg" alt="CNBC Tv 18"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/index.m3u8"><p style="color:black;">CNBC Tv 18</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" alt="News18 India"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 India</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" alt="CNN NEWS 18"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/index.m3u8"><p style="color:black;">CNN NEWS 18</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" alt="News18 Tamilnadu"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Tamil_Nadu_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 Tamilnadu</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" alt="News18 Lokmat"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 Lokmat</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" alt="News18 Bangla News"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 Bangla News</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" alt="News18 Kannada News"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Kannada_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 Kannada News</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" alt="News18 Gujarati"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 Gujarati</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" alt="News18 Punjab Haryana"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 Punjab Haryana</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" alt="News18 Oriya"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Odia_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 Oriya</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" alt="News18 Assam"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Assam_North_East_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 Assam</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" alt="News 18 Kerala"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News 18 Kerala</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" alt="News18 RAJASTHAN"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Rajasthan_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 RAJASTHAN</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" alt="News18 BIHAR"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 BIHAR</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" alt="News18 MP"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 MP</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" alt="News18 UP"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 UP</p></a>
+</div>
+</p></a>
+</div></div>
+
+<div class="col-6 col-sm-4 col-md-2"> <div class="box1">
+    <div class="channel">
+        <img src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" alt="News18 JKLH"style="height: 120px">
+        <a href="https://proplayer-two.vercel.app/ProPlayer.html?dtv=https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/index.m3u8"><p style="color:black;">News18 JKLH</p></a> 
+</div>
+</p></a>
+</div></div>
+
+</body>
+</html>
